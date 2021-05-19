@@ -18,31 +18,16 @@ public class Cliente {
         euros.setValorEnDolares(1.22);
         euros.setSimbolo("€");
 
-        Thread juan = new Thread(new Runnable() {
-            @Override
-            public void run() {
-                Banco banco= new Banco();
-                banco.cambio(200,bolivianos,"Dolares");
-            }
-        });
-        Thread ana = new Thread(new Runnable() {
-            @Override
-            public void run() {
-                LibreCambistas libre= new LibreCambistas();
-                libre.cambio(200,euros,"Bolivianos");
-            }
-        });
+        Banco banco= new Banco();
+        banco.cambio(200,bolivianos,"Dolares");
 
-        Thread pedro = new Thread(new Runnable() {
-            @Override
-            public void run() {
-                CasaDeCambios casa= new CasaDeCambios();
-                casa.cambio(200,dolares,"Euros");
-            }
-        });
-       juan.start();
-       ana.start();
-       pedro.start();
+        LibreCambistas libre= new LibreCambistas();
+        libre.cambio(200,euros,"Bolivianos");
+
+        CasaDeCambios casa= new CasaDeCambios();
+        casa.cambio(200,dolares,"Euros");
+
+
     }
 
 

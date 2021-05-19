@@ -1,12 +1,20 @@
-TareaSingletonCambioMonedas/Moneda.java
- TareaSingletonCambioMonedas.Moneda
+TareaPrototypeCelulares/SIM.java
+ TareaPrototypeCelulares.SIM
+TareaSingletonCambioMonedas/Cliente.java
+ TareaSingletonCambioMonedas.Cliente
 TareaSingletonCambioMonedas/CambioMonedas.java
  TareaSingletonCambioMonedas.CambioMonedas
-TareaSingletonCambioMonedas/LibreCambistas.java
- TareaSingletonCambioMonedas.LibreCambistas
 TareaSingletonCambioMonedas/Banco.java
  TareaSingletonCambioMonedas.Banco
 TareaSingletonCambioMonedas/CasaDeCambios.java
  TareaSingletonCambioMonedas.CasaDeCambios
-TareaSingletonCambioMonedas/Cliente.java
- TareaSingletonCambioMonedas.Cliente
+TareaPrototypeCelulares/IModeloCelular.java
+ TareaPrototypeCelulares.IModeloCelular
+TareaPrototypeCelulares/Cliente.java
+ TareaPrototypeCelulares.Cliente
+TareaSingletonCambioMonedas/Moneda.java
+ TareaSingletonCambioMonedas.Moneda
+TareaSingletonCambioMonedas/LibreCambistas.java
+ TareaSingletonCambioMonedas.LibreCambistas
+TareaPrototypeCelulares/Celular.java
+ TareaPrototypeCelulares.Celular

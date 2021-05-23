@@ -44,3 +44,23 @@ TareaFactoryMethodAerolinea/CreatorVoletoInfantes.java
  TareaFactoryMethodAerolinea.CreatorVoletoInfantes
 TareaFactoryMethodAerolinea/CreatorVoletoStandard.java
  TareaFactoryMethodAerolinea.CreatorVoletoStandard
+TareaAbstractFactory/Heladeria/HeladoAgua.java
+ TareaAbstractFactory.Heladeria.HeladoAgua
+TareaAbstractFactory/Heladeria/Crema.java
+ TareaAbstractFactory.Heladeria.Crema
+TareaAbstractFactory/Heladeria/IHelado.java
+ TareaAbstractFactory.Heladeria.IHelado
+TareaAbstractFactory/Heladeria/Base.java
+ TareaAbstractFactory.Heladeria.Base
+TareaAbstractFactory/Heladeria/Fruta.java
+ TareaAbstractFactory.Heladeria.Fruta
+TareaAbstractFactory/Heladeria/HeladoCrema.java
+ TareaAbstractFactory.Heladeria.HeladoCrema
+TareaAbstractFactory/Heladeria/HeladoMixto.java
+ TareaAbstractFactory.Heladeria.HeladoMixto
+TareaAbstractFactory/Heladeria/FactoryHelado.java
+ TareaAbstractFactory.Heladeria.FactoryHelado
+ TareaAbstractFactory.Heladeria.FactoryHelado$1
+ TareaAbstractFactory.Heladeria.FactoryHelado$typeHelado
+TareaAbstractFactory/Heladeria/Client.java
+ TareaAbstractFactory.Heladeria.Client

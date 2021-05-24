@@ -64,3 +64,17 @@ TareaAbstractFactory/Heladeria/FactoryHelado.java
  TareaAbstractFactory.Heladeria.FactoryHelado$typeHelado
 TareaAbstractFactory/Heladeria/Client.java
  TareaAbstractFactory.Heladeria.Client
+TareaBuilderPizzas/PizzaClasica.java
+ TareaBuilderPizzas.PizzaClasica
+TareaBuilderPizzas/Pizza.java
+ TareaBuilderPizzas.Pizza
+TareaBuilderPizzas/Client.java
+ TareaBuilderPizzas.Client
+TareaBuilderPizzas/PizzaCarnivora.java
+ TareaBuilderPizzas.PizzaCarnivora
+TareaBuilderPizzas/PizzaHawaiana.java
+ TareaBuilderPizzas.PizzaHawaiana
+TareaBuilderPizzas/Cocinero.java
+ TareaBuilderPizzas.Cocinero
+TareaBuilderPizzas/Builder.java
+ TareaBuilderPizzas.Builder

@@ -78,3 +78,19 @@ TareaBuilderPizzas/Cocinero.java
  TareaBuilderPizzas.Cocinero
 TareaBuilderPizzas/Builder.java
  TareaBuilderPizzas.Builder
+TareaInterpreterNumRomanos/AbstractExpresion.java
+ TareaInterpreterNumRomanos.AbstractExpresion
+TareaInterpreterNumRomanos/TerminalExpresionX.java
+ TareaInterpreterNumRomanos.TerminalExpresionX
+TareaInterpreterNumRomanos/TerminalExpresionSpace.java
+ TareaInterpreterNumRomanos.TerminalExpresionSpace
+TareaInterpreterNumRomanos/Context.java
+ TareaInterpreterNumRomanos.Context
+TareaInterpreterNumRomanos/TerminalExpresionV.java
+ TareaInterpreterNumRomanos.TerminalExpresionV
+TareaInterpreterNumRomanos/NoTerminalExpresion.java
+ TareaInterpreterNumRomanos.NoTerminalExpresion
+TareaInterpreterNumRomanos/TerminalExpresionI.java
+ TareaInterpreterNumRomanos.TerminalExpresionI
+TareaInterpreterNumRomanos/Client.java
+ TareaInterpreterNumRomanos.Client

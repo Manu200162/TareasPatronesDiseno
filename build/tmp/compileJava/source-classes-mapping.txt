@@ -180,3 +180,17 @@ TareaExtraPrimerParcial/abstractFactory/Lenguaje.java
  TareaExtraPrimerParcial.abstractFactory.Lenguaje
 TareaExtraPrimerParcial/abstractFactory/Client.java
  TareaExtraPrimerParcial.abstractFactory.Client
+TareaMediatorCanalComunicacion/DEV.java
+ TareaMediatorCanalComunicacion.DEV
+TareaMediatorCanalComunicacion/Colleague.java
+ TareaMediatorCanalComunicacion.Colleague
+TareaMediatorCanalComunicacion/QA.java
+ TareaMediatorCanalComunicacion.QA
+TareaMediatorCanalComunicacion/SM.java
+ TareaMediatorCanalComunicacion.SM
+TareaMediatorCanalComunicacion/ICanalComunicacion.java
+ TareaMediatorCanalComunicacion.ICanalComunicacion
+TareaMediatorCanalComunicacion/SKYPE.java
+ TareaMediatorCanalComunicacion.SKYPE
+TareaMediatorCanalComunicacion/Client.java
+ TareaMediatorCanalComunicacion.Client

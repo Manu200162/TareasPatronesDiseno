@@ -194,3 +194,15 @@ TareaMediatorCanalComunicacion/SKYPE.java
  TareaMediatorCanalComunicacion.SKYPE
 TareaMediatorCanalComunicacion/Client.java
  TareaMediatorCanalComunicacion.Client
+TareaMementoBaseDatos/BaseDatos.java
+ TareaMementoBaseDatos.BaseDatos
+TareaMementoBaseDatos/Memento.java
+ TareaMementoBaseDatos.Memento
+TareaMementoBaseDatos/AlmacenBackUps.java
+ TareaMementoBaseDatos.AlmacenBackUps
+TareaMementoBaseDatos/Persona.java
+ TareaMementoBaseDatos.Persona
+TareaMementoBaseDatos/BackUp.java
+ TareaMementoBaseDatos.BackUp
+TareaMementoBaseDatos/Client.java
+ TareaMementoBaseDatos.Client

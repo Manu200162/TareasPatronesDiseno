@@ -254,3 +254,17 @@ TareaChainOfRespobsability/Ejercicio1/Cliente.java
  TareaChainOfRespobsability.Ejercicio1.Cliente
 TareaChainOfRespobsability/Ejercicio1/DevOps.java
  TareaChainOfRespobsability.Ejercicio1.DevOps
+TareaCommandVideojuego/IAccion.java
+ TareaCommandVideojuego.IAccion
+TareaCommandVideojuego/Invoker.java
+ TareaCommandVideojuego.Invoker
+TareaCommandVideojuego/Disparos.java
+ TareaCommandVideojuego.Disparos
+TareaCommandVideojuego/Ataque.java
+ TareaCommandVideojuego.Ataque
+TareaCommandVideojuego/ModoDefensa.java
+ TareaCommandVideojuego.ModoDefensa
+TareaCommandVideojuego/Videojuego.java
+ TareaCommandVideojuego.Videojuego
+TareaCommandVideojuego/Client.java
+ TareaCommandVideojuego.Client

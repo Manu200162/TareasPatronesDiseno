@@ -14,7 +14,7 @@ public class Prendido implements IStateComputadora{
         List<String> programas = new ArrayList<>();
         int consumo= 0;
         int numProgramas=1;
-        for(int i = 5 ;i <= num;i=i+5 ){
+        for(int i = 1 ;i <= num;i++ ){
             programas.add("Programa"+numProgramas);
             numProgramas++;
             consumo = consumo+5;

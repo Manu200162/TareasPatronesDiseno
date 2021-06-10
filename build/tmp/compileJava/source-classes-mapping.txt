@@ -268,15 +268,15 @@ TareaCommandVideojuego/Videojuego.java
  TareaCommandVideojuego.Videojuego
 TareaCommandVideojuego/Client.java
  TareaCommandVideojuego.Client
-TareaStateComputadora/Client.java
- TareaStateComputadora.Client
-TareaStateComputadora/IStateComputadora.java
- TareaStateComputadora.IStateComputadora
-TareaStateComputadora/Prendido.java
- TareaStateComputadora.Prendido
-TareaStateComputadora/Apagado.java
- TareaStateComputadora.Apagado
-TareaStateComputadora/Reiniciar.java
- TareaStateComputadora.Reiniciar
 TareaStateComputadora/Computadora.java
  TareaStateComputadora.Computadora
+TareaStateComputadora/IStateComputadora.java
+ TareaStateComputadora.IStateComputadora
+TareaStateComputadora/Reiniciar.java
+ TareaStateComputadora.Reiniciar
+TareaStateComputadora/Apagado.java
+ TareaStateComputadora.Apagado
+TareaStateComputadora/Client.java
+ TareaStateComputadora.Client
+TareaStateComputadora/Prendido.java
+ TareaStateComputadora.Prendido

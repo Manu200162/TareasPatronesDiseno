@@ -12,6 +12,10 @@ TareaMediatorCanalComunicacion/SKYPE.java
  TareaMediatorCanalComunicacion.SKYPE
 TareaInterpreterNumRomanos/TerminalExpresionV.java
  TareaInterpreterNumRomanos.TerminalExpresionV
+TareaChainOfRespobsability/Ejercicio2/AyudaCliente.java
+ TareaChainOfRespobsability.Ejercicio2.AyudaCliente
+TareaChainOfRespobsability/Ejercicio3/Algoritmo1.java
+ TareaChainOfRespobsability.Ejercicio3.Algoritmo1
 TareaExtraPrimerParcial/factoryMethod/Kit_escolar.java
  TareaExtraPrimerParcial.factoryMethod.Kit_escolar
 TareaExtraPrimerParcial/factoryMethod/Create_Kit_colegial.java
@@ -24,6 +28,8 @@ TareaPrototypeCelulares/Celular.java
  TareaPrototypeCelulares.Celular
 TareaAbstractFactory/Heladeria/HeladoMixto.java
  TareaAbstractFactory.Heladeria.HeladoMixto
+TareaChainOfRespobsability/Ejercicio3/Algoritmo3.java
+ TareaChainOfRespobsability.Ejercicio3.Algoritmo3
 TareaFactoryMethodAerolinea/Avion.java
  TareaFactoryMethodAerolinea.Avion
 TareaAbstractFactory/Heladeria/Base.java
@@ -48,6 +54,8 @@ TareaFactoryMethodAerolinea/CreatorVoletos.java
  TareaFactoryMethodAerolinea.CreatorVoletos
 TareaAbstractFactory/Heladeria/Crema.java
  TareaAbstractFactory.Heladeria.Crema
+TareaChainOfRespobsability/Ejercicio2/Persona.java
+ TareaChainOfRespobsability.Ejercicio2.Persona
 TareaBuilderPizzas/PizzaCarnivora.java
  TareaBuilderPizzas.PizzaCarnivora
 TareaIteratorListaEmpresas/IteratorConcreteTercera.java
@@ -58,14 +66,20 @@ TareaMediatorCanalComunicacion/SM.java
  TareaMediatorCanalComunicacion.SM
 TareaMediatorCanalComunicacion/ICanalComunicacion.java
  TareaMediatorCanalComunicacion.ICanalComunicacion
+TareaChainOfRespobsability/Ejercicio1/Support.java
+ TareaChainOfRespobsability.Ejercicio1.Support
 TareaExtraPrimerParcial/factoryMethod/IKit.java
  TareaExtraPrimerParcial.factoryMethod.IKit
 TareaExtraPrimerParcial/factoryMethod/CreatorKits.java
  TareaExtraPrimerParcial.factoryMethod.CreatorKits
 TareaExtraPrimerParcial/factoryMethod/Cuadernos.java
  TareaExtraPrimerParcial.factoryMethod.Cuadernos
+TareaChainOfRespobsability/Ejercicio1/RealizadorConsultas.java
+ TareaChainOfRespobsability.Ejercicio1.RealizadorConsultas
 TareaInterpreterUserHistories/AbstractExpresion.java
  TareaInterpreterUserHistories.AbstractExpresion
+TareaChainOfRespobsability/Ejercicio1/Cliente.java
+ TareaChainOfRespobsability.Ejercicio1.Cliente
 TareaInterpreterNumRomanos/Client.java
  TareaInterpreterNumRomanos.Client
 TareaInterpreterNumRomanos/AbstractExpresion.java
@@ -84,10 +98,14 @@ TareaInterpreterNumRomanos/TerminalExpresionX.java
  TareaInterpreterNumRomanos.TerminalExpresionX
 TareaPrototypeCelulares/IModeloCelular.java
  TareaPrototypeCelulares.IModeloCelular
+TareaChainOfRespobsability/Ejercicio1/IEmpleado.java
+ TareaChainOfRespobsability.Ejercicio1.IEmpleado
 TareaPrototypeCelulares/SIM.java
  TareaPrototypeCelulares.SIM
 TareaExtraPrimerParcial/abstractFactory/Client.java
  TareaExtraPrimerParcial.abstractFactory.Client
+TareaChainOfRespobsability/Ejercicio2/ResponsableCarnetizacion.java
+ TareaChainOfRespobsability.Ejercicio2.ResponsableCarnetizacion
 TareaIteratorListaEmpresas/SegundaCom.java
  TareaIteratorListaEmpresas.SegundaCom
 TareaSingletonCambioMonedas/Cliente.java
@@ -98,10 +116,14 @@ TareaExtraPrimerParcial/factoryMethod/Create_kit_escolar.java
  TareaExtraPrimerParcial.factoryMethod.Create_kit_escolar
 TareaIteratorListaEmpresas/IteratorConcreteSegunda.java
  TareaIteratorListaEmpresas.IteratorConcreteSegunda
+TareaChainOfRespobsability/Ejercicio3/IOrdenamiento.java
+ TareaChainOfRespobsability.Ejercicio3.IOrdenamiento
 TareaPrototypeCelulares/Cliente.java
  TareaPrototypeCelulares.Cliente
 TareaExtraPrimerParcial/prototype/IContrato.java
  TareaExtraPrimerParcial.prototype.IContrato
+TareaChainOfRespobsability/Ejercicio3/Persona.java
+ TareaChainOfRespobsability.Ejercicio3.Persona
 TareaFactoryMethodAerolinea/Pasajero.java
  TareaFactoryMethodAerolinea.Pasajero
 TareaMediatorCanalComunicacion/QA.java
@@ -112,6 +134,8 @@ TareaFactoryMethodAerolinea/VoletoInfantes.java
  TareaFactoryMethodAerolinea.VoletoInfantes
 TareaInterpreterNumRomanos/NoTerminalExpresion.java
  TareaInterpreterNumRomanos.NoTerminalExpresion
+TareaChainOfRespobsability/Ejercicio1/Developer.java
+ TareaChainOfRespobsability.Ejercicio1.Developer
 TareaExtraPrimerParcial/factoryMethod/Kit_colegial.java
  TareaExtraPrimerParcial.factoryMethod.Kit_colegial
 TareaExtraPrimerParcial/prototype/ContratoDocente.java
@@ -120,6 +144,8 @@ TareaMementoBaseDatos/BackUp.java
  TareaMementoBaseDatos.BackUp
 TareaInterpreterUserHistories/Context.java
  TareaInterpreterUserHistories.Context
+TareaChainOfRespobsability/Ejercicio1/DevOps.java
+ TareaChainOfRespobsability.Ejercicio1.DevOps
 TareaAbstractFactory/Heladeria/Fruta.java
  TareaAbstractFactory.Heladeria.Fruta
 TareaInterpreterNumRomanos/TerminalExpresionSpace.java
@@ -128,6 +154,8 @@ TareaFactoryMethodAerolinea/VoletoStandard.java
  TareaFactoryMethodAerolinea.VoletoStandard
 TareaMementoBaseDatos/Client.java
  TareaMementoBaseDatos.Client
+TareaChainOfRespobsability/Ejercicio2/IFuncionario.java
+ TareaChainOfRespobsability.Ejercicio2.IFuncionario
 TareaExtraPrimerParcial/abstractFactory/IMateria.java
  TareaExtraPrimerParcial.abstractFactory.IMateria
 TareaAbstractFactory/Heladeria/FactoryHelado.java
@@ -138,10 +166,14 @@ TareaAbstractFactory/Heladeria/Client.java
  TareaAbstractFactory.Heladeria.Client
 TareaAbstractFactory/Heladeria/HeladoCrema.java
  TareaAbstractFactory.Heladeria.HeladoCrema
+TareaChainOfRespobsability/Ejercicio1/Finanzas.java
+ TareaChainOfRespobsability.Ejercicio1.Finanzas
 TareaExtraPrimerParcial/abstractFactory/Matematicas.java
  TareaExtraPrimerParcial.abstractFactory.Matematicas
 TareaMementoBaseDatos/Memento.java
  TareaMementoBaseDatos.Memento
+TareaChainOfRespobsability/Ejercicio2/Notario.java
+ TareaChainOfRespobsability.Ejercicio2.Notario
 TareaBuilderPizzas/Cocinero.java
  TareaBuilderPizzas.Cocinero
 TareaExtraPrimerParcial/factoryMethod/Deportivo.java
@@ -164,6 +196,8 @@ TareaFactoryMethodAerolinea/Destino.java
  TareaFactoryMethodAerolinea.Destino
 TareaSingletonCambioMonedas/LibreCambistas.java
  TareaSingletonCambioMonedas.LibreCambistas
+TareaChainOfRespobsability/Ejercicio2/Client.java
+ TareaChainOfRespobsability.Ejercicio2.Client
 TareaInterpreterUserHistories/InterpreterOraciones.java
  TareaInterpreterUserHistories.InterpreterOraciones
 TareaMementoBaseDatos/AlmacenBackUps.java
@@ -174,12 +208,22 @@ TareaExtraPrimerParcial/prototype/Client.java
  TareaExtraPrimerParcial.prototype.Client
 TareaBuilderPizzas/Client.java
  TareaBuilderPizzas.Client
+TareaChainOfRespobsability/Ejercicio1/Client.java
+ TareaChainOfRespobsability.Ejercicio1.Client
 TareaSingletonCambioMonedas/Banco.java
  TareaSingletonCambioMonedas.Banco
+TareaChainOfRespobsability/Ejercicio2/Cajero.java
+ TareaChainOfRespobsability.Ejercicio2.Cajero
 TareaBuilderPizzas/PizzaHawaiana.java
  TareaBuilderPizzas.PizzaHawaiana
+TareaChainOfRespobsability/Ejercicio3/AlgoritmoOrdenamiento.java
+ TareaChainOfRespobsability.Ejercicio3.AlgoritmoOrdenamiento
 TareaFactoryMethodAerolinea/CreatorVoletoInfantes.java
  TareaFactoryMethodAerolinea.CreatorVoletoInfantes
+TareaChainOfRespobsability/Ejercicio2/Carnetizacion.java
+ TareaChainOfRespobsability.Ejercicio2.Carnetizacion
+TareaChainOfRespobsability/Ejercicio3/Client.java
+ TareaChainOfRespobsability.Ejercicio3.Client
 TareaBuilderPizzas/Builder.java
  TareaBuilderPizzas.Builder
 TareaMementoBaseDatos/BaseDatos.java
@@ -194,6 +238,8 @@ TareaAbstractFactory/Heladeria/IHelado.java
  TareaAbstractFactory.Heladeria.IHelado
 TareaExtraPrimerParcial/abstractFactory/Lenguaje.java
  TareaExtraPrimerParcial.abstractFactory.Lenguaje
+TareaChainOfRespobsability/Ejercicio1/QA.java
+ TareaChainOfRespobsability.Ejercicio1.QA
 TareaExtraPrimerParcial/factoryMethod/Mochila.java
  TareaExtraPrimerParcial.factoryMethod.Mochila
 TareaFactoryMethodAerolinea/IVoletoAvion.java
@@ -206,77 +252,47 @@ TareaMediatorCanalComunicacion/Colleague.java
  TareaMediatorCanalComunicacion.Colleague
 TareaInterpreterUserHistories/TerminalExpresionQuiero.java
  TareaInterpreterUserHistories.TerminalExpresionQuiero
-TareaChainOfRespobsability/Ejercicio2/Client.java
- TareaChainOfRespobsability.Ejercicio2.Client
-TareaChainOfRespobsability/Ejercicio2/AyudaCliente.java
- TareaChainOfRespobsability.Ejercicio2.AyudaCliente
-TareaChainOfRespobsability/Ejercicio2/IFuncionario.java
- TareaChainOfRespobsability.Ejercicio2.IFuncionario
-TareaChainOfRespobsability/Ejercicio2/Persona.java
- TareaChainOfRespobsability.Ejercicio2.Persona
-TareaChainOfRespobsability/Ejercicio2/ResponsableCarnetizacion.java
- TareaChainOfRespobsability.Ejercicio2.ResponsableCarnetizacion
-TareaChainOfRespobsability/Ejercicio2/Cajero.java
- TareaChainOfRespobsability.Ejercicio2.Cajero
-TareaChainOfRespobsability/Ejercicio2/Notario.java
- TareaChainOfRespobsability.Ejercicio2.Notario
-TareaChainOfRespobsability/Ejercicio2/Carnetizacion.java
- TareaChainOfRespobsability.Ejercicio2.Carnetizacion
 TareaChainOfRespobsability/Ejercicio3/Algoritmo2.java
  TareaChainOfRespobsability.Ejercicio3.Algoritmo2
-TareaChainOfRespobsability/Ejercicio3/Algoritmo1.java
- TareaChainOfRespobsability.Ejercicio3.Algoritmo1
-TareaChainOfRespobsability/Ejercicio3/Persona.java
- TareaChainOfRespobsability.Ejercicio3.Persona
-TareaChainOfRespobsability/Ejercicio3/Client.java
- TareaChainOfRespobsability.Ejercicio3.Client
-TareaChainOfRespobsability/Ejercicio3/IOrdenamiento.java
- TareaChainOfRespobsability.Ejercicio3.IOrdenamiento
-TareaChainOfRespobsability/Ejercicio3/Algoritmo3.java
- TareaChainOfRespobsability.Ejercicio3.Algoritmo3
-TareaChainOfRespobsability/Ejercicio3/AlgoritmoOrdenamiento.java
- TareaChainOfRespobsability.Ejercicio3.AlgoritmoOrdenamiento
-TareaChainOfRespobsability/Ejercicio1/RealizadorConsultas.java
- TareaChainOfRespobsability.Ejercicio1.RealizadorConsultas
-TareaChainOfRespobsability/Ejercicio1/Client.java
- TareaChainOfRespobsability.Ejercicio1.Client
-TareaChainOfRespobsability/Ejercicio1/Developer.java
- TareaChainOfRespobsability.Ejercicio1.Developer
-TareaChainOfRespobsability/Ejercicio1/Finanzas.java
- TareaChainOfRespobsability.Ejercicio1.Finanzas
-TareaChainOfRespobsability/Ejercicio1/IEmpleado.java
- TareaChainOfRespobsability.Ejercicio1.IEmpleado
-TareaChainOfRespobsability/Ejercicio1/QA.java
- TareaChainOfRespobsability.Ejercicio1.QA
-TareaChainOfRespobsability/Ejercicio1/Support.java
- TareaChainOfRespobsability.Ejercicio1.Support
-TareaChainOfRespobsability/Ejercicio1/Cliente.java
- TareaChainOfRespobsability.Ejercicio1.Cliente
-TareaChainOfRespobsability/Ejercicio1/DevOps.java
- TareaChainOfRespobsability.Ejercicio1.DevOps
-TareaCommandVideojuego/IAccion.java
- TareaCommandVideojuego.IAccion
-TareaCommandVideojuego/Invoker.java
- TareaCommandVideojuego.Invoker
-TareaCommandVideojuego/Disparos.java
- TareaCommandVideojuego.Disparos
-TareaCommandVideojuego/Ataque.java
- TareaCommandVideojuego.Ataque
-TareaCommandVideojuego/ModoDefensa.java
- TareaCommandVideojuego.ModoDefensa
-TareaCommandVideojuego/Videojuego.java
- TareaCommandVideojuego.Videojuego
-TareaCommandVideojuego/Client.java
- TareaCommandVideojuego.Client
 TareaStateComputadora/Computadora.java
  TareaStateComputadora.Computadora
-TareaStateComputadora/IStateComputadora.java
- TareaStateComputadora.IStateComputadora
-TareaStateComputadora/Reiniciar.java
- TareaStateComputadora.Reiniciar
-TareaStateComputadora/Apagado.java
- TareaStateComputadora.Apagado
+TareaCommandVideojuego/Videojuego.java
+ TareaCommandVideojuego.Videojuego
 TareaStateComputadora/Client.java
  TareaStateComputadora.Client
+TareaStrategyTiendaRopa/TiendaRopa.java
+ TareaStrategyTiendaRopa.TiendaRopa
+TareaCommandVideojuego/Disparos.java
+ TareaCommandVideojuego.Disparos
+TareaStateComputadora/IStateComputadora.java
+ TareaStateComputadora.IStateComputadora
 TareaStateComputadora/Prendido.java
  TareaStateComputadora.Prendido
+TareaCommandVideojuego/ModoDefensa.java
+ TareaCommandVideojuego.ModoDefensa
+TareaStateComputadora/Reiniciar.java
+ TareaStateComputadora.Reiniciar
+TareaCommandVideojuego/Client.java
+ TareaCommandVideojuego.Client
+TareaCommandVideojuego/IAccion.java
+ TareaCommandVideojuego.IAccion
+TareaStrategyTiendaRopa/IEstrategiaVentas.java
+ TareaStrategyTiendaRopa.IEstrategiaVentas
+TareaCommandVideojuego/Invoker.java
+ TareaCommandVideojuego.Invoker
+TareaCommandVideojuego/Ataque.java
+ TareaCommandVideojuego.Ataque
+TareaStateComputadora/Apagado.java
+ TareaStateComputadora.Apagado
+TareaStrategyTiendaRopa/PrendaRopa.java
+ TareaStrategyTiendaRopa.PrendaRopa
+TareaStrategyTiendaRopa/Primavera.java
+ TareaStrategyTiendaRopa.Primavera
+TareaStrategyTiendaRopa/Verano.java
+ TareaStrategyTiendaRopa.Verano
+TareaStrategyTiendaRopa/Invierno.java
+ TareaStrategyTiendaRopa.Invierno
+TareaStrategyTiendaRopa/Client.java
+ TareaStrategyTiendaRopa.Client
+TareaStrategyTiendaRopa/Otonio.java
+ TareaStrategyTiendaRopa.Otonio

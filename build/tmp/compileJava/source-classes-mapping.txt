@@ -22,6 +22,8 @@ TareaExtraPrimerParcial/factoryMethod/Create_Kit_colegial.java
  TareaExtraPrimerParcial.factoryMethod.Create_Kit_colegial
 TareaExtraPrimerParcial/prototype/Docente.java
  TareaExtraPrimerParcial.prototype.Docente
+TareaStateComputadora/Apagado.java
+ TareaStateComputadora.Apagado
 TareaInterpreterUserHistories/TerminalExpresionComo.java
  TareaInterpreterUserHistories.TerminalExpresionComo
 TareaPrototypeCelulares/Celular.java
@@ -30,6 +32,8 @@ TareaAbstractFactory/Heladeria/HeladoMixto.java
  TareaAbstractFactory.Heladeria.HeladoMixto
 TareaChainOfRespobsability/Ejercicio3/Algoritmo3.java
  TareaChainOfRespobsability.Ejercicio3.Algoritmo3
+TareaStateComputadora/IStateComputadora.java
+ TareaStateComputadora.IStateComputadora
 TareaFactoryMethodAerolinea/Avion.java
  TareaFactoryMethodAerolinea.Avion
 TareaAbstractFactory/Heladeria/Base.java
@@ -38,6 +42,8 @@ TareaFactoryMethodAerolinea/CreatorVoletoSolidario.java
  TareaFactoryMethodAerolinea.CreatorVoletoSolidario
 TareaIteratorListaEmpresas/Iterator.java
  TareaIteratorListaEmpresas.Iterator
+TareaCommandVideojuego/IAccion.java
+ TareaCommandVideojuego.IAccion
 TareaExtraPrimerParcial/abstractFactory/FactoryMateria.java
  TareaExtraPrimerParcial.abstractFactory.FactoryMateria
  TareaExtraPrimerParcial.abstractFactory.FactoryMateria$1
@@ -46,12 +52,16 @@ TareaMediatorCanalComunicacion/DEV.java
  TareaMediatorCanalComunicacion.DEV
 TareaIteratorListaEmpresas/IteratorConcretePrimera.java
  TareaIteratorListaEmpresas.IteratorConcretePrimera
+TareaStrategyTiendaRopa/IEstrategiaVentas.java
+ TareaStrategyTiendaRopa.IEstrategiaVentas
 TareaExtraPrimerParcial/abstractFactory/Ingles.java
  TareaExtraPrimerParcial.abstractFactory.Ingles
 TareaInterpreterUserHistories/Client.java
  TareaInterpreterUserHistories.Client
 TareaFactoryMethodAerolinea/CreatorVoletos.java
  TareaFactoryMethodAerolinea.CreatorVoletos
+TareaStrategyTiendaRopa/Primavera.java
+ TareaStrategyTiendaRopa.Primavera
 TareaAbstractFactory/Heladeria/Crema.java
  TareaAbstractFactory.Heladeria.Crema
 TareaChainOfRespobsability/Ejercicio2/Persona.java
@@ -64,6 +74,8 @@ TareaFactoryMethodAerolinea/VoletoSolidario.java
  TareaFactoryMethodAerolinea.VoletoSolidario
 TareaMediatorCanalComunicacion/SM.java
  TareaMediatorCanalComunicacion.SM
+TareaStrategyTiendaRopa/Invierno.java
+ TareaStrategyTiendaRopa.Invierno
 TareaMediatorCanalComunicacion/ICanalComunicacion.java
  TareaMediatorCanalComunicacion.ICanalComunicacion
 TareaChainOfRespobsability/Ejercicio1/Support.java
@@ -78,6 +90,8 @@ TareaChainOfRespobsability/Ejercicio1/RealizadorConsultas.java
  TareaChainOfRespobsability.Ejercicio1.RealizadorConsultas
 TareaInterpreterUserHistories/AbstractExpresion.java
  TareaInterpreterUserHistories.AbstractExpresion
+TareaCommandVideojuego/ModoDefensa.java
+ TareaCommandVideojuego.ModoDefensa
 TareaChainOfRespobsability/Ejercicio1/Cliente.java
  TareaChainOfRespobsability.Ejercicio1.Cliente
 TareaInterpreterNumRomanos/Client.java
@@ -120,8 +134,12 @@ TareaChainOfRespobsability/Ejercicio3/IOrdenamiento.java
  TareaChainOfRespobsability.Ejercicio3.IOrdenamiento
 TareaPrototypeCelulares/Cliente.java
  TareaPrototypeCelulares.Cliente
+TareaCommandVideojuego/Videojuego.java
+ TareaCommandVideojuego.Videojuego
 TareaExtraPrimerParcial/prototype/IContrato.java
  TareaExtraPrimerParcial.prototype.IContrato
+TareaCommandVideojuego/Disparos.java
+ TareaCommandVideojuego.Disparos
 TareaChainOfRespobsability/Ejercicio3/Persona.java
  TareaChainOfRespobsability.Ejercicio3.Persona
 TareaFactoryMethodAerolinea/Pasajero.java
@@ -130,6 +148,8 @@ TareaMediatorCanalComunicacion/QA.java
  TareaMediatorCanalComunicacion.QA
 TareaFactoryMethodAerolinea/CreatorVoletoStandard.java
  TareaFactoryMethodAerolinea.CreatorVoletoStandard
+TareaCommandVideojuego/Client.java
+ TareaCommandVideojuego.Client
 TareaFactoryMethodAerolinea/VoletoInfantes.java
  TareaFactoryMethodAerolinea.VoletoInfantes
 TareaInterpreterNumRomanos/NoTerminalExpresion.java
@@ -146,12 +166,22 @@ TareaInterpreterUserHistories/Context.java
  TareaInterpreterUserHistories.Context
 TareaChainOfRespobsability/Ejercicio1/DevOps.java
  TareaChainOfRespobsability.Ejercicio1.DevOps
+TareaStrategyTiendaRopa/Client.java
+ TareaStrategyTiendaRopa.Client
+TareaStrategyTiendaRopa/Otonio.java
+ TareaStrategyTiendaRopa.Otonio
+TareaStateComputadora/Client.java
+ TareaStateComputadora.Client
+TareaStrategyTiendaRopa/TiendaRopa.java
+ TareaStrategyTiendaRopa.TiendaRopa
 TareaAbstractFactory/Heladeria/Fruta.java
  TareaAbstractFactory.Heladeria.Fruta
 TareaInterpreterNumRomanos/TerminalExpresionSpace.java
  TareaInterpreterNumRomanos.TerminalExpresionSpace
 TareaFactoryMethodAerolinea/VoletoStandard.java
  TareaFactoryMethodAerolinea.VoletoStandard
+TareaStateComputadora/Reiniciar.java
+ TareaStateComputadora.Reiniciar
 TareaMementoBaseDatos/Client.java
  TareaMementoBaseDatos.Client
 TareaChainOfRespobsability/Ejercicio2/IFuncionario.java
@@ -166,12 +196,16 @@ TareaAbstractFactory/Heladeria/Client.java
  TareaAbstractFactory.Heladeria.Client
 TareaAbstractFactory/Heladeria/HeladoCrema.java
  TareaAbstractFactory.Heladeria.HeladoCrema
+TareaCommandVideojuego/Invoker.java
+ TareaCommandVideojuego.Invoker
 TareaChainOfRespobsability/Ejercicio1/Finanzas.java
  TareaChainOfRespobsability.Ejercicio1.Finanzas
 TareaExtraPrimerParcial/abstractFactory/Matematicas.java
  TareaExtraPrimerParcial.abstractFactory.Matematicas
 TareaMementoBaseDatos/Memento.java
  TareaMementoBaseDatos.Memento
+TareaStrategyTiendaRopa/PrendaRopa.java
+ TareaStrategyTiendaRopa.PrendaRopa
 TareaChainOfRespobsability/Ejercicio2/Notario.java
  TareaChainOfRespobsability.Ejercicio2.Notario
 TareaBuilderPizzas/Cocinero.java
@@ -234,6 +268,8 @@ TareaFactoryMethodAerolinea/Cliente.java
  TareaFactoryMethodAerolinea.Cliente
 TareaInterpreterNumRomanos/Context.java
  TareaInterpreterNumRomanos.Context
+TareaStateComputadora/Prendido.java
+ TareaStateComputadora.Prendido
 TareaAbstractFactory/Heladeria/IHelado.java
  TareaAbstractFactory.Heladeria.IHelado
 TareaExtraPrimerParcial/abstractFactory/Lenguaje.java
@@ -252,47 +288,21 @@ TareaMediatorCanalComunicacion/Colleague.java
  TareaMediatorCanalComunicacion.Colleague
 TareaInterpreterUserHistories/TerminalExpresionQuiero.java
  TareaInterpreterUserHistories.TerminalExpresionQuiero
-TareaChainOfRespobsability/Ejercicio3/Algoritmo2.java
- TareaChainOfRespobsability.Ejercicio3.Algoritmo2
-TareaStateComputadora/Computadora.java
- TareaStateComputadora.Computadora
-TareaCommandVideojuego/Videojuego.java
- TareaCommandVideojuego.Videojuego
-TareaStateComputadora/Client.java
- TareaStateComputadora.Client
-TareaStrategyTiendaRopa/TiendaRopa.java
- TareaStrategyTiendaRopa.TiendaRopa
-TareaCommandVideojuego/Disparos.java
- TareaCommandVideojuego.Disparos
-TareaStateComputadora/IStateComputadora.java
- TareaStateComputadora.IStateComputadora
-TareaStateComputadora/Prendido.java
- TareaStateComputadora.Prendido
-TareaCommandVideojuego/ModoDefensa.java
- TareaCommandVideojuego.ModoDefensa
-TareaStateComputadora/Reiniciar.java
- TareaStateComputadora.Reiniciar
-TareaCommandVideojuego/Client.java
- TareaCommandVideojuego.Client
-TareaCommandVideojuego/IAccion.java
- TareaCommandVideojuego.IAccion
-TareaStrategyTiendaRopa/IEstrategiaVentas.java
- TareaStrategyTiendaRopa.IEstrategiaVentas
-TareaCommandVideojuego/Invoker.java
- TareaCommandVideojuego.Invoker
 TareaCommandVideojuego/Ataque.java
  TareaCommandVideojuego.Ataque
-TareaStateComputadora/Apagado.java
- TareaStateComputadora.Apagado
-TareaStrategyTiendaRopa/PrendaRopa.java
- TareaStrategyTiendaRopa.PrendaRopa
-TareaStrategyTiendaRopa/Primavera.java
- TareaStrategyTiendaRopa.Primavera
+TareaChainOfRespobsability/Ejercicio3/Algoritmo2.java
+ TareaChainOfRespobsability.Ejercicio3.Algoritmo2
 TareaStrategyTiendaRopa/Verano.java
  TareaStrategyTiendaRopa.Verano
-TareaStrategyTiendaRopa/Invierno.java
- TareaStrategyTiendaRopa.Invierno
-TareaStrategyTiendaRopa/Client.java
- TareaStrategyTiendaRopa.Client
-TareaStrategyTiendaRopa/Otonio.java
- TareaStrategyTiendaRopa.Otonio
+TareaStateComputadora/Computadora.java
+ TareaStateComputadora.Computadora
+TareaeEjercicios2doParcial/Memento_1/AlmacenRevisiones.java
+ TareaeEjercicios2doParcial.Memento_1.AlmacenRevisiones
+TareaeEjercicios2doParcial/Memento_1/Tesis.java
+ TareaeEjercicios2doParcial.Memento_1.Tesis
+TareaeEjercicios2doParcial/Memento_1/EstadoTesis.java
+ TareaeEjercicios2doParcial.Memento_1.EstadoTesis
+TareaeEjercicios2doParcial/Memento_1/Memento.java
+ TareaeEjercicios2doParcial.Memento_1.Memento
+TareaeEjercicios2doParcial/Memento_1/Client.java
+ TareaeEjercicios2doParcial.Memento_1.Client

@@ -332,3 +332,13 @@ TareaeEjercicios2doParcial/Strategy_4/BusquedaGrande.java
  TareaeEjercicios2doParcial.Strategy_4.BusquedaGrande
 TareaeEjercicios2doParcial/Strategy_4/Cliente.java
  TareaeEjercicios2doParcial.Strategy_4.Cliente
+TareaeEjercicios2doParcial/Mediator_5/ICanal.java
+ TareaeEjercicios2doParcial.Mediator_5.ICanal
+TareaeEjercicios2doParcial/Mediator_5/Colleague.java
+ TareaeEjercicios2doParcial.Mediator_5.Colleague
+TareaeEjercicios2doParcial/Mediator_5/Usuario.java
+ TareaeEjercicios2doParcial.Mediator_5.Usuario
+TareaeEjercicios2doParcial/Mediator_5/Whatsapp.java
+ TareaeEjercicios2doParcial.Mediator_5.Whatsapp
+TareaeEjercicios2doParcial/Mediator_5/Client.java
+ TareaeEjercicios2doParcial.Mediator_5.Client

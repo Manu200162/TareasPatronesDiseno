@@ -398,3 +398,27 @@ TareaVisitor/ejercicio2/Librecambista.java
  TareaVisitor.ejercicio2.Librecambista
 TareaVisitor/ejercicio2/Client.java
  TareaVisitor.ejercicio2.Client
+TareaAdapterElectronicos/Computadoras.java
+ TareaAdapterElectronicos.Computadoras
+TareaAdapterElectronicos/IElectrodomesticos.java
+ TareaAdapterElectronicos.IElectrodomesticos
+TareaAdapterElectronicos/Celulares.java
+ TareaAdapterElectronicos.Celulares
+TareaAdapterElectronicos/IElectronicosPortables.java
+ TareaAdapterElectronicos.IElectronicosPortables
+TareaAdapterElectronicos/Tablets.java
+ TareaAdapterElectronicos.Tablets
+TareaAdapterElectronicos/RefrigeradorAdaptado.java
+ TareaAdapterElectronicos.RefrigeradorAdaptado
+TareaAdapterElectronicos/TelevisorAdaptado.java
+ TareaAdapterElectronicos.TelevisorAdaptado
+TareaAdapterElectronicos/Refrigeradores.java
+ TareaAdapterElectronicos.Refrigeradores
+TareaAdapterElectronicos/LavadoraAdaptada.java
+ TareaAdapterElectronicos.LavadoraAdaptada
+TareaAdapterElectronicos/Lavadoras.java
+ TareaAdapterElectronicos.Lavadoras
+TareaAdapterElectronicos/Televisores.java
+ TareaAdapterElectronicos.Televisores
+TareaAdapterElectronicos/Client.java
+ TareaAdapterElectronicos.Client

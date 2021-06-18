@@ -368,3 +368,33 @@ TareaEjercicios2doParcial/ExtraSingleton_6/Banco.java
  TareaEjercicios2doParcial.ExtraSingleton_6.Banco
 TareaEjercicios2doParcial/ExtraSingleton_6/CuentaBancaria.java
  TareaEjercicios2doParcial.ExtraSingleton_6.CuentaBancaria
+TareaVisitor/ejercicio1/IPluguin.java
+ TareaVisitor.ejercicio1.IPluguin
+TareaVisitor/ejercicio1/NotePad.java
+ TareaVisitor.ejercicio1.NotePad
+TareaVisitor/ejercicio1/Client.java
+ TareaVisitor.ejercicio1.Client
+TareaVisitor/ejercicio1/Sublime.java
+ TareaVisitor.ejercicio1.Sublime
+TareaVisitor/ejercicio1/Complemento.java
+ TareaVisitor.ejercicio1.Complemento
+TareaVisitor/ejercicio1/Word.java
+ TareaVisitor.ejercicio1.Word
+TareaVisitor/ejercicio1/IEditorTexto.java
+ TareaVisitor.ejercicio1.IEditorTexto
+TareaVisitor/ejercicio2/Bolivia.java
+ TareaVisitor.ejercicio2.Bolivia
+TareaVisitor/ejercicio2/IPais.java
+ TareaVisitor.ejercicio2.IPais
+TareaVisitor/ejercicio2/Argentina.java
+ TareaVisitor.ejercicio2.Argentina
+TareaVisitor/ejercicio2/Brasil.java
+ TareaVisitor.ejercicio2.Brasil
+TareaVisitor/ejercicio2/Italia.java
+ TareaVisitor.ejercicio2.Italia
+TareaVisitor/ejercicio2/IVisitante.java
+ TareaVisitor.ejercicio2.IVisitante
+TareaVisitor/ejercicio2/Librecambista.java
+ TareaVisitor.ejercicio2.Librecambista
+TareaVisitor/ejercicio2/Client.java
+ TareaVisitor.ejercicio2.Client

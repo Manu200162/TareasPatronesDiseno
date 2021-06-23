@@ -422,3 +422,51 @@ TareaAdapterElectronicos/Televisores.java
  TareaAdapterElectronicos.Televisores
 TareaAdapterElectronicos/Client.java
  TareaAdapterElectronicos.Client
+TareaBridge/ejercicio1/noBridge/Windows7x86.java
+ TareaBridge.ejercicio1.noBridge.Windows7x86
+TareaBridge/ejercicio1/Linux.java
+ TareaBridge.ejercicio1.Linux
+TareaBridge/ejercicio1/Windows.java
+ TareaBridge.ejercicio1.Windows
+TareaBridge/ejercicio1/noBridge/Linux.java
+ TareaBridge.ejercicio1.noBridge.Linux
+TareaBridge/ejercicio1/IPlataforma.java
+ TareaBridge.ejercicio1.IPlataforma
+TareaBridge/ejercicio1/IArquitectura.java
+ TareaBridge.ejercicio1.IArquitectura
+TareaBridge/ejercicio1/noBridge/Linuxx86.java
+ TareaBridge.ejercicio1.noBridge.Linuxx86
+TareaBridge/ejercicio1/Arquitecturax86.java
+ TareaBridge.ejercicio1.Arquitecturax86
+TareaBridge/ejercicio1/noBridge/Windows.java
+ TareaBridge.ejercicio1.noBridge.Windows
+TareaBridge/ejercicio1/noBridge/Client.java
+ TareaBridge.ejercicio1.noBridge.Client
+TareaBridge/ejercicio1/Client.java
+ TareaBridge.ejercicio1.Client
+TareaBridge/ejercicio1/Arquitecturax64.java
+ TareaBridge.ejercicio1.Arquitecturax64
+TareaBridge/ejercicio1/noBridge/IPlataforma.java
+ TareaBridge.ejercicio1.noBridge.IPlataforma
+TareaBridge/ejercicio1/noBridge/Linuxx64.java
+ TareaBridge.ejercicio1.noBridge.Linuxx64
+TareaBridge/ejercicio1/noBridge/Windows7x64.java
+ TareaBridge.ejercicio1.noBridge.Windows7x64
+TareaBridge/ejercicio2/EmpresaSRL.java
+ TareaBridge.ejercicio2.EmpresaSRL
+TareaBridge/ejercicio2/EmpresaSA.java
+ TareaBridge.ejercicio2.EmpresaSA
+TareaBridge/ejercicio2/IEmpresa.java
+ TareaBridge.ejercicio2.IEmpresa
+TareaBridge/ejercicio2/IEnvio.java
+ TareaBridge.ejercicio2.IEnvio
+TareaBridge/ejercicio2/Paquete.java
+ TareaBridge.ejercicio2.Paquete
+TareaBridge/ejercicio2/EnvioMar.java
+ TareaBridge.ejercicio2.EnvioMar
+TareaBridge/ejercicio2/EnvioAire.java
+ TareaBridge.ejercicio2.EnvioAire
+TareaBridge/ejercicio2/EnvioTierra.java
+ TareaBridge.ejercicio2.EnvioTierra
+TareaBridge/ejercicio2/Client.java
+ TareaBridge.ejercicio2.Client

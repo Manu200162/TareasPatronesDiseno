@@ -480,3 +480,11 @@ TareaProxyBanco/Client.java
  TareaProxyBanco.Client
 TareaProxyBanco/TarjetaDebito.java
  TareaProxyBanco.TarjetaDebito
+TareaCompositeComputadora/Component.java
+ TareaCompositeComputadora.Component
+TareaCompositeComputadora/ComputadoraLeaf.java
+ TareaCompositeComputadora.ComputadoraLeaf
+TareaCompositeComputadora/Composite.java
+ TareaCompositeComputadora.Composite
+TareaCompositeComputadora/Client.java
+ TareaCompositeComputadora.Client

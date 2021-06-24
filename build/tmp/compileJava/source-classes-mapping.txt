@@ -470,3 +470,13 @@ TareaBridge/ejercicio2/EnvioTierra.java
  TareaBridge.ejercicio2.EnvioTierra
 TareaBridge/ejercicio2/Client.java
  TareaBridge.ejercicio2.Client
+TareaProxyBanco/CuentaBancaria.java
+ TareaProxyBanco.CuentaBancaria
+TareaProxyBanco/IBanco.java
+ TareaProxyBanco.IBanco
+TareaProxyBanco/ServicioBancario.java
+ TareaProxyBanco.ServicioBancario
+TareaProxyBanco/Client.java
+ TareaProxyBanco.Client
+TareaProxyBanco/TarjetaDebito.java
+ TareaProxyBanco.TarjetaDebito

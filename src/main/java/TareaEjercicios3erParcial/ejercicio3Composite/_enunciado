@@ -1,0 +1,14 @@
+(Composite) Se tiene un archivo como objeto base, un conjunto de archivos se los
+guarda en folders y varios folders se lo guardan en una unidad de disco, Lo que
+podemos obtener de un archivo es el número de palabras que tiene el archivo.
+Debemos de obtener el número de palabras que hay en un folder y en una unidad de
+disco.
+
+
+Archivo
+Folder------> conjunto de archivos
+UnidadDeDisco-------> conjunto de folders
+
+(obtener el numero de palabras archivo)
+(obtener numero de palabras del folder )
+(obtener numero de palabras del archivo)

@@ -1,14 +1,13 @@
 package TareaEjercicios3erParcial.ejercicio1Decorator;
 
 public class Personaje implements Component {
-    //Personaje(nombre,nivel,armas,porcentajeDeArmadura, puntosAtaque, puntosDefensa, puntosRegeneracion)
     private String nombre;
     private int nivel;
     private String armas;
-    private int porcentajeDeArmadura;
-    private int puntosAtaque;
-    private int puntosDefensa;
-    private int puntosRegeneracion;
+    private double porcentajeDeArmadura;
+    private double puntosAtaque;
+    private double puntosDefensa;
+    private double puntosRegeneracion;
 
     public Personaje(String nombre, int nivel,String armas){
         this.nombre=nombre;
@@ -45,41 +44,58 @@ public class Personaje implements Component {
         this.armas = armas;
     }
     @Override
-    public int getPorcentajeDeArmadura() {
+    public double getPorcentajeDeArmadura() {
         return porcentajeDeArmadura;
     }
     @Override
-    public void setPorcentajeDeArmadura(int porcentajeDeAramadura) {
+    public void setPorcentajeDeArmadura(double porcentajeDeAramadura) {
         this.porcentajeDeArmadura = porcentajeDeAramadura;
     }
     @Override
-    public int getPuntosAtaque() {
+    public double getPuntosAtaque() {
         return puntosAtaque;
     }
     @Override
-    public void setPuntosAtaque(int puntosAtaque) {
+    public void setPuntosAtaque(double puntosAtaque) {
         this.puntosAtaque = puntosAtaque;
     }
     @Override
-    public int getPuntosDefensa() {
+    public double getPuntosDefensa() {
         return puntosDefensa;
     }
     @Override
-    public void setPuntosDefensa(int puntosDefensa) {
+    public void setPuntosDefensa(double puntosDefensa) {
         this.puntosDefensa = puntosDefensa;
     }
     @Override
-    public int getPuntosRegeneracion() {
+    public double getPuntosRegeneracion() {
         return puntosRegeneracion;
     }
     @Override
-    public void setPuntosRegeneracion(int puntosRegeneracion) {
+    public void setPuntosRegeneracion(double puntosRegeneracion) {
         this.puntosRegeneracion = puntosRegeneracion;
     }
 
     @Override
     public void operation() {
-        //logica
-        System.out.println("ComponentConcrete1 > operation");
+        System.out.println("Caracteristicas iniciales personaje: ");
+        System.out.println("Nombre: "+nombre);
+        System.out.println("Nivel: "+nivel);
+        System.out.println("Aramas: "+armas);
+        System.out.println("Porcentaje de armadura: "+porcentajeDeArmadura);
+        System.out.println("Puntos de ataque: "+puntosAtaque);
+        System.out.println("Puntos de defensa: "+puntosDefensa);
+        System.out.println("Puntos de regeneracion: "+puntosRegeneracion);
+        System.out.println("-----------------------------------------------------");
+    }
+    public void showInfo(){
+        System.out.println("Nombre: "+nombre);
+        System.out.println("Nivel: "+nivel);
+        System.out.println("Aramas: "+armas);
+        System.out.println("Porcentaje de armadura: "+porcentajeDeArmadura);
+        System.out.println("Puntos de ataque: "+puntosAtaque);
+        System.out.println("Puntos de defensa: "+puntosDefensa);
+        System.out.println("Puntos de regeneracion: "+puntosRegeneracion);
+        System.out.println("-----------------------------------------------------");
     }
 }

@@ -17,6 +17,7 @@ se agregan posiciones de curacion ==== sus puntos de regeneracion suben 80%
 
 armas
 nivel
-puntosDefensa
-porcentajeArmadura
-puntosRgeneracion
+puntosAtaque double
+puntosDefensa double
+porcentajeArmadura double
+puntosRgeneracion double

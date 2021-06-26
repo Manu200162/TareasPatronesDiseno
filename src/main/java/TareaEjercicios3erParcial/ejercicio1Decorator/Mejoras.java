@@ -8,6 +8,14 @@ public class Mejoras implements  Component {
         this.component=component;
     }
 
+    public Component getComponent() {
+        return component;
+    }
+
+    public void setComponent(Component component) {
+        this.component = component;
+    }
+
     @Override
     public void operation() {
         this.component.operation();
@@ -34,42 +42,42 @@ public class Mejoras implements  Component {
     }
 
     @Override
-    public int getPorcentajeDeArmadura() {
+    public double getPorcentajeDeArmadura() {
         return component.getPorcentajeDeArmadura();
     }
 
     @Override
-    public void setPorcentajeDeArmadura(int porcentajeDeArmadura) {
+    public void setPorcentajeDeArmadura(double porcentajeDeArmadura) {
         component.setPorcentajeDeArmadura(porcentajeDeArmadura);
     }
 
     @Override
-    public int getPuntosAtaque() {
+    public double getPuntosAtaque() {
         return component.getPuntosAtaque();
     }
 
     @Override
-    public void setPuntosAtaque(int puntosAtaque) {
+    public void setPuntosAtaque(double puntosAtaque) {
         component.setPuntosAtaque(puntosAtaque);
     }
 
     @Override
-    public int getPuntosDefensa() {
+    public double getPuntosDefensa() {
         return component.getPuntosDefensa();
     }
 
     @Override
-    public void setPuntosDefensa(int puntosDefensa) {
+    public void setPuntosDefensa(double puntosDefensa) {
         component.setPuntosDefensa(puntosDefensa);
     }
 
     @Override
-    public int getPuntosRegeneracion() {
+    public double getPuntosRegeneracion() {
         return component.getPuntosRegeneracion();
     }
 
     @Override
-    public void setPuntosRegeneracion(int puntosRecuperacion) {
+    public void setPuntosRegeneracion(double puntosRecuperacion) {
         component.setPuntosRegeneracion(puntosRecuperacion);
     }
 }

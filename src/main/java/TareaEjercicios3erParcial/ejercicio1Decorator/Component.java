@@ -6,14 +6,14 @@ public interface Component {
     void setNivel(int nivel);
     String getArmas();
     void setArmas(String armas);
-    int getPorcentajeDeArmadura();
-    void setPorcentajeDeArmadura(int porcentajeDeArmadura);
-    int getPuntosAtaque();
-    void setPuntosAtaque(int puntosAtaque);
-    int getPuntosDefensa();
-    void setPuntosDefensa(int puntosDefensa);
-    int getPuntosRegeneracion();
-    void setPuntosRegeneracion(int puntosRecuperacion);
+    double getPorcentajeDeArmadura();
+    void setPorcentajeDeArmadura(double porcentajeDeArmadura);
+    double getPuntosAtaque();
+    void setPuntosAtaque(double puntosAtaque);
+    double getPuntosDefensa();
+    void setPuntosDefensa(double puntosDefensa);
+    double getPuntosRegeneracion();
+    void setPuntosRegeneracion(double puntosRecuperacion);
 
 
 }

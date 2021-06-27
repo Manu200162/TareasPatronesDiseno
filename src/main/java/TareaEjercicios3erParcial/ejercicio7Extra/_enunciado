@@ -7,11 +7,7 @@ ser recibido al mismo tiempo por diferentes clientes, cabe recabar que los dueñ
 empresa : presidente, vicepresidente, contabilidad reciben una notificación cada vez
 que se paga en la cuenta única.
 
+Se necesita una visitor para cambiar de tecnica
 Se necestia de observer para las comunicaciones;
 Se necesita de un singleton sincronizado
 
-fianlistas para saber cuales herramientas llevar(){
--chainOfResponsability
--strategy
--bridge(pero hay que pensarla bien)
-}
